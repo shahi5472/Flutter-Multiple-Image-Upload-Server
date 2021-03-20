@@ -1,4 +1,4 @@
-# flutter_dio_multi_img_upload
+# Flutter Dio Multiple Image Upload
 
 A new Flutter application.
 
